@@ -1,4 +1,9 @@
-Problem System 2.0 update content:
+A converse of a web trivia quiz. 
+It retrieves data from DBpedia page and generates firstly description and trivial questions correspondingly to a question pool. And then the users select the desired question from the pool, the system will give out an answer. At last, the user is supposed to guess what/who is the object/person according to the description and the answered questions. 
+
+
+
+System 2.0 update content:
 
 For the complete please visit(due to the file size limit of Github):
 https://drive.google.com/open?id=1Bu2pzc-XH849z9mUZS1MXatxWE8ZSVo1
